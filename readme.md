@@ -1,5 +1,5 @@
 # Laravel
-Trabalho do curso de Pós-Graduação em Desenvolvimento Web e Dispositivos Móveis
+Trabalho do curso de Pós-Graduação em Desenvolvimento Web e Dispositivos Móveis.
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"><img src="http://www.alfaumuarama.com.br/estrutura/img/Logo_FAU_SM.png"></p>
 
